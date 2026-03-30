@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed minor edge case in input handling
 - Drafted initial implementation plan for v2
 - Ran linter, applied auto-fixes
+
+## 2026-03-30
+- Documented config options
